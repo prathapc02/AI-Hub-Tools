@@ -1,0 +1,513 @@
+DEBUG:root:Download link: https://youtu.be/kw6SFbbinnY?si=Zlt5iLK6yDvzq_yS
+DEBUG:root:User path: C:/Users/ASUS-2024/OneDrive/Desktop/video hd
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:root:Stream: <Stream: itag="22" mime_type="video/mp4" res="720p" fps="24fps" vcodec="avc1.64001F" acodec="mp4a.40.2" progressive="True" type="video">
+DEBUG:pytube.streams:downloading (23670694 total bytes) file to C:\Users\ASUS-2024\Source\Repos\YouTube-Video-Downloaderss\Nee Singam Dhaan.mp4
+DEBUG:pytube.streams:download remaining: 14233510
+DEBUG:pytube.streams:download remaining: 4796326
+DEBUG:pytube.streams:download remaining: 0
+DEBUG:pytube.streams:download finished
+DEBUG:root:Downloaded video: C:\Users\ASUS-2024\Source\Repos\YouTube-Video-Downloaderss\Nee Singam Dhaan.mp4
+DEBUG:root:Download link: https://youtu.be/PAhTLB1LBR0?si=EW9iRseSMZPO3hq5
+DEBUG:root:User path: C:/Users/ASUS-2024/OneDrive/Desktop/video hd
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:pytube.extract:signature found, skip decipher
+DEBUG:root:Stream: <Stream: itag="22" mime_type="video/mp4" res="720p" fps="24fps" vcodec="avc1.64001F" acodec="mp4a.40.2" progressive="True" type="video">
+DEBUG:pytube.streams:downloading (45314704 total bytes) file to C:\Users\ASUS-2024\OneDrive\Desktop\madan\Tamilselvi Video  Sivakarthikeyan  Anirudh  Latest Hit Song.mp4
+DEBUG:pytube.streams:download remaining: 35877520
+DEBUG:pytube.streams:download remaining: 26440336
+DEBUG:pytube.streams:download remaining: 17003152
+DEBUG:pytube.streams:download remaining: 7565968
+DEBUG:pytube.streams:download remaining: 0
+DEBUG:pytube.streams:download finished
+DEBUG:root:Downloaded video: C:\Users\ASUS-2024\OneDrive\Desktop\madan\Tamilselvi Video  Sivakarthikeyan  Anirudh  Latest Hit Song.mp4
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: Downloading File
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+2024-05-23 19:47:59,564:DEBUG:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+2024-05-23 19:47:59,564:DEBUG:User path: C:/Users/admin/Desktop/New folder
+2024-05-23 19:47:59,565:DEBUG:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2024-05-23 19:48:01,697:DEBUG:applying descrambler
+2024-05-23 19:48:01,700:DEBUG:finding initial function name
+2024-05-23 19:48:01,703:DEBUG:Pattern failed: ytplayer\.config\s*=\s*
+2024-05-23 19:48:01,703:DEBUG:Could not parse object.
+2024-05-23 19:48:01,734:DEBUG:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2024-05-23 19:48:02,945:DEBUG:finding initial function name
+2024-05-23 19:48:03,324:DEBUG:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2024-05-23 19:48:03,325:DEBUG:getting transform plan
+2024-05-23 19:48:03,326:DEBUG:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2024-05-23 19:48:03,327:DEBUG:getting transform object
+2024-05-23 19:48:03,328:DEBUG:Finding throttling function name
+2024-05-23 19:48:03,329:DEBUG:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2024-05-23 19:48:03,332:ERROR:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 36, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+2024-05-23 19:49:39,982:DEBUG:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+2024-05-23 19:49:39,983:DEBUG:User path: C:/Users/admin/Desktop/New folder
+2024-05-23 19:49:39,984:DEBUG:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2024-05-23 19:49:39,984:DEBUG:YouTube object: <pytube.__main__.YouTube object: videoId=vU2SxYaDD0Y>
+2024-05-23 19:49:42,102:DEBUG:applying descrambler
+2024-05-23 19:49:42,104:DEBUG:finding initial function name
+2024-05-23 19:49:42,107:DEBUG:Pattern failed: ytplayer\.config\s*=\s*
+2024-05-23 19:49:42,107:DEBUG:Could not parse object.
+2024-05-23 19:49:42,137:DEBUG:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2024-05-23 19:49:42,929:DEBUG:finding initial function name
+2024-05-23 19:49:43,287:DEBUG:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2024-05-23 19:49:43,288:DEBUG:getting transform plan
+2024-05-23 19:49:43,288:DEBUG:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2024-05-23 19:49:43,288:DEBUG:getting transform object
+2024-05-23 19:49:43,290:DEBUG:Finding throttling function name
+2024-05-23 19:49:43,291:DEBUG:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2024-05-23 19:49:43,294:ERROR:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 37, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+2024-05-23 19:51:29,398:DEBUG:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+2024-05-23 19:51:29,398:DEBUG:User path: C:/Users/admin/Desktop/New folder
+2024-05-23 19:51:29,399:DEBUG:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2024-05-23 19:51:31,173:DEBUG:applying descrambler
+2024-05-23 19:51:31,175:DEBUG:finding initial function name
+2024-05-23 19:51:31,177:DEBUG:Pattern failed: ytplayer\.config\s*=\s*
+2024-05-23 19:51:31,177:DEBUG:Could not parse object.
+2024-05-23 19:51:31,209:DEBUG:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2024-05-23 19:51:31,947:DEBUG:finding initial function name
+2024-05-23 19:51:32,310:DEBUG:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2024-05-23 19:51:32,310:DEBUG:getting transform plan
+2024-05-23 19:51:32,311:DEBUG:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2024-05-23 19:51:32,311:DEBUG:getting transform object
+2024-05-23 19:51:32,313:DEBUG:Finding throttling function name
+2024-05-23 19:51:32,314:DEBUG:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2024-05-23 19:51:32,318:ERROR:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 36, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 32, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 32, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 32, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Desktop/New folder
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 32, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/vU2SxYaDD0Y?si=PKCKNqLQ9HgRrdnD
+DEBUG:root:User path: C:/Users/admin/Videos
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'
+DEBUG:root:Download link: https://youtu.be/tRjf8it_YCk?si=1oLiQ4c-GwE9xWol
+DEBUG:root:User path: C:/Users/admin/Videos
+DEBUG:pytube.helpers:matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+DEBUG:pytube.extract:applying descrambler
+DEBUG:pytube.extract:finding initial function name
+DEBUG:pytube.extract:Pattern failed: ytplayer\.config\s*=\s*
+DEBUG:pytube.extract:Could not parse object.
+DEBUG:pytube.extract:finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+DEBUG:pytube.cipher:finding initial function name
+DEBUG:pytube.cipher:finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+DEBUG:pytube.cipher:getting transform plan
+DEBUG:pytube.helpers:matched regex search: GOa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+DEBUG:pytube.cipher:getting transform object
+DEBUG:pytube.cipher:Finding throttling function name
+DEBUG:pytube.cipher:finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+ERROR:root:Error occurred: 'NoneType' object has no attribute 'span'
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\madan-project\madan\main.py", line 24, in download_file
+    stream = yt.streams.get_highest_resolution()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\__main__.py", line 181, in fmt_streams
+    extract.apply_signature(stream_manifest, self.vid_info, self.js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\extract.py", line 409, in apply_signature
+    cipher = Cipher(js=js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 43, in __init__
+    self.throttling_plan = get_throttling_plan(js)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\lib\site-packages\pytube\cipher.py", line 411, in get_throttling_plan
+    transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+AttributeError: 'NoneType' object has no attribute 'span'

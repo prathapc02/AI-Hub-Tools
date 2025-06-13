@@ -1,0 +1,1 @@
+The AI Hub project is a comprehensive toolkit designed using Tkinter, OpenCV, and other libraries to provide a centralized platform for various AI-related functionalities. This project incorporates features like face recognition, emotion detection, voice assistant, and voice translation into a user-friendly GUI interface.  
